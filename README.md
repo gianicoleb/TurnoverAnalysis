@@ -1,10 +1,11 @@
 # Company Turnover Rate Analysis
 
-## Page 2: Satisfaction Ratings
+## Satisfaction Ratings
 
 When analyzing retention rates, a common way to gain insight is through customer satisfaction. The bar chart to the left displays the number of employees who have left and the number of employees who have stayed in comparison to their satisfaction rating. This shows us that employees who leave tend to have a satisfaction rating of < 0.5. Since there are a significant number of employees with higher than average satisfaction ratings that still left, this tells us that there must be other contributing factors to retention rate.
 
-[Insert Photo Here]
+<img width="171" alt="Screenshot 2023-10-22 at 11 28 09 AM" src="https://github.com/gianicoleb/TurnoverAnalysis/assets/98177363/f29a52ef-d45d-47c7-9099-f9f037eb6c7b">
+
 
 ## Page 3: Evaluation Rating
 
